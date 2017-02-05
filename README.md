@@ -9,4 +9,8 @@ https://www.linkedin.com/pulse/5-companies-dominate-iot-market-place-sundar-visw
 ### What Is Fog Computing? And Why It Matters In Our Big Data And IoT World
 #### OCT 14, 2016 @ 01:37 AM
 http://www.forbes.com/sites/bernardmarr/2016/10/14/what-is-fog-computing-and-why-it-matters-in-our-big-data-and-iot-world/#4af15a1a4971
+### 2017 IIoT Prediction: Edge computing goes mainstream
+#### DECEMBER 21st, 2016.
+http://embedded-computing.com/guest-blogs/2017-iiot-prediction-edge-computing-goes-mainstream/
+
 
