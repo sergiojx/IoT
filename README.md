@@ -13,4 +13,8 @@ http://www.forbes.com/sites/bernardmarr/2016/10/14/what-is-fog-computing-and-why
 #### DECEMBER 21st, 2016.
 http://embedded-computing.com/guest-blogs/2017-iiot-prediction-edge-computing-goes-mainstream/
 
+### Virtualization: The IT/OT Crossroads
+#### June 23, 2016
+https://www.automationworld.com/virtualization-it-ot-crossroads
+
 
