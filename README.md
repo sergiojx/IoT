@@ -4,6 +4,13 @@
 #### January 6, 2017
 https://www.linkedin.com/pulse/5-companies-dominate-iot-market-place-sundar-viswanathan?trk=v-feed&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BzdwWfI985r71umoltghO0Q%3D%3D
 
+# IoT Analytics Books
+#### Building Blocks for IoT Analytics Internet-of-Things Analytics
+#### Thingalytics - Smart Big Data Analytics for the Internet of Things
+#### Analytics for the Internet of Things: Application of Analytics to IoT devices
+
+
+
 # Fog Computing,edge computing, IoT Off line
 
 ### What Is Fog Computing? And Why It Matters In Our Big Data And IoT World
